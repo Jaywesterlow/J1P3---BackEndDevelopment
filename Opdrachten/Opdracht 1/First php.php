@@ -8,7 +8,7 @@
 
 <?php
 
-    echo 'Duurzaam huis';
+    echo 'Dit is ons duurzaam huis';
 
 ?>
 
